@@ -19,3 +19,4 @@ Veuillez coller ici vos liens vers votre gitHub
  - Vienne       Alexandre           https://github.com/Blood62/test
  - Dubromez     Julien              https://github.com/macgyver-dev
 - Taisne François https://github.com/FrancoisTaisne/Francois-Location-velo.git
+ - Calais       Benjamin            https://github.com/PtiiBen/Projet-velo
